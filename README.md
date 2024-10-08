@@ -8,3 +8,6 @@
 
 
 ### dopisane w developie
+
+
+# dopisane again
