@@ -5,3 +5,6 @@
 
 
 ### dopisane
+
+
+### dopisane w developie
